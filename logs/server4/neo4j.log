@@ -48,3 +48,54 @@
 2025-11-18 15:21:54.794+0000 INFO  name: system
 2025-11-18 15:21:54.794+0000 INFO  creationDate: 2025-11-18T15:20:29.457Z
 2025-11-18 15:21:54.795+0000 INFO  Started.
+2025-11-18 16:41:47.507+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2025-11-18 16:41:47.542+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2025-11-18 16:41:48.411+0000 INFO  Command expansion is explicitly enabled for configuration
+2025-11-18 16:41:48.412+0000 INFO  Executing external script to retrieve value of setting server.cluster.raft.advertised_address
+2025-11-18 16:41:48.413+0000 INFO  Executing external script to retrieve value of setting server.routing.advertised_address
+2025-11-18 16:41:48.413+0000 INFO  Executing external script to retrieve value of setting server.cluster.advertised_address
+2025-11-18 16:41:48.442+0000 INFO  Starting...
+2025-11-18 16:41:59.444+0000 INFO  ======== Neo4j 2025.10.1 ========
+2025-11-18 16:41:59.885+0000 INFO  This instance is ServerId{56198f5f} (56198f5f-92fc-4df0-b176-c9b776edaa76)
+2025-11-18 16:42:01.085+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.22.0.2:6000, 172.22.0.3:6000, 172.22.0.4:6000, 172.22.0.5:6000]'
+2025-11-18 16:42:10.192+0000 INFO  Connected to server2/172.22.0.2:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 16:42:10.613+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 16:42:10.621+0000 INFO  Connected to server1/172.22.0.3:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 16:42:11.049+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 16:42:11.055+0000 INFO  Connected to server2/172.22.0.2:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 16:42:11.089+0000 INFO  Connected to server1/172.22.0.3:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 16:42:11.397+0000 INFO  Sending metrics to CSV file at /var/lib/neo4j/metrics
+2025-11-18 16:42:11.608+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-11-18 16:42:11.655+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-11-18 16:42:11.671+0000 INFO  Bolt (Routing) enabled on 0.0.0.0:7688.
+2025-11-18 16:42:18.116+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2025-11-18 16:42:18.119+0000 INFO  Remote interface available at http://localhost:7474/
+2025-11-18 16:42:18.139+0000 INFO  id: FD345BFF0D84B39620FC9DF248A34F5EABBC0F2D6B5CFF5963AB7B1CDE447579
+2025-11-18 16:42:18.140+0000 INFO  name: system
+2025-11-18 16:42:18.143+0000 INFO  creationDate: 2025-11-18T15:20:29.457Z
+2025-11-18 16:42:18.145+0000 INFO  Started.
+2025-11-18 16:45:02.136+0000 WARN  Failed authentication attempt for 'neo4j' from 172.22.0.1
+2025-11-18 16:45:07.516+0000 WARN  Failed authentication attempt for 'neo4j' from 172.22.0.1
+2025-11-18 17:06:36.292+0000 INFO  Lost connection to server1/172.22.0.3:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:06:36.292+0000 INFO  Lost connection to server1/172.22.0.3:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:07:04.013+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.22.0.2:6000, 172.22.0.4:6000, 172.22.0.5:6000]'
+2025-11-18 17:08:33.440+0000 INFO  Lost connection to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:08:33.440+0000 INFO  Lost connection to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:09:01.243+0000 INFO  Connected to server1/172.22.0.3:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:09:01.447+0000 INFO  Connected to server1/172.22.0.3:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:09:08.042+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.22.0.2:6000, 172.22.0.3:6000, 172.22.0.4:6000]'
+2025-11-18 17:10:08.052+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.22.0.2:6000, 172.22.0.3:6000, 172.22.0.4:6000, 172.22.0.5:6000]'
+2025-11-18 17:10:13.285+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:10:13.432+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:12:30.821+0000 INFO  Lost connection to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:12:30.821+0000 INFO  Lost connection to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:12:59.424+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:12:59.608+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:13:41.006+0000 INFO  Lost connection to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:13:41.007+0000 INFO  Lost connection to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:14:09.134+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.22.0.2:6000, 172.22.0.3:6000, 172.22.0.4:6000]'
+2025-11-18 17:25:09.230+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.22.0.2:6000, 172.22.0.3:6000, 172.22.0.4:6000, 172.22.0.5:6000]'
+2025-11-18 17:25:12.674+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 17:25:12.799+0000 INFO  Connected to server3/172.22.0.5:7000 [Category[name=RAFT] version:5.0]
