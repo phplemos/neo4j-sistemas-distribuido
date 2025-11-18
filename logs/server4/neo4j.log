@@ -1,0 +1,50 @@
+2025-11-18 15:20:21.837+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2025-11-18 15:20:21.847+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2025-11-18 15:20:22.057+0000 INFO  Command expansion is explicitly enabled for configuration
+2025-11-18 15:20:22.058+0000 INFO  Executing external script to retrieve value of setting server.cluster.raft.advertised_address
+2025-11-18 15:20:22.058+0000 INFO  Executing external script to retrieve value of setting server.routing.advertised_address
+2025-11-18 15:20:22.058+0000 INFO  Executing external script to retrieve value of setting server.cluster.advertised_address
+2025-11-18 15:20:22.066+0000 INFO  Starting...
+2025-11-18 15:20:24.801+0000 INFO  ======== Neo4j 2025.10.1 ========
+2025-11-18 15:20:24.886+0000 INFO  This instance is ServerId{56198f5f} (56198f5f-92fc-4df0-b176-c9b776edaa76)
+2025-11-18 15:20:25.129+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.21.0.2:6000, 172.21.0.3:6000, 172.21.0.4:6000, 172.21.0.5:6000]'
+2025-11-18 15:20:33.801+0000 INFO  Connected to server3/172.21.0.2:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 15:20:36.209+0000 INFO  Sending metrics to CSV file at /var/lib/neo4j/metrics
+2025-11-18 15:20:36.243+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-11-18 15:20:36.262+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-11-18 15:20:36.265+0000 INFO  Bolt (Routing) enabled on 0.0.0.0:7688.
+2025-11-18 15:20:36.952+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2025-11-18 15:20:36.952+0000 INFO  Remote interface available at http://localhost:7474/
+2025-11-18 15:20:36.954+0000 INFO  id: FD345BFF0D84B39620FC9DF248A34F5EABBC0F2D6B5CFF5963AB7B1CDE447579
+2025-11-18 15:20:36.954+0000 INFO  name: system
+2025-11-18 15:20:36.954+0000 INFO  creationDate: 2025-11-18T15:20:29.457Z
+2025-11-18 15:20:36.954+0000 INFO  Started.
+2025-11-18 15:21:27.790+0000 INFO  Neo4j Server shutdown initiated by request
+2025-11-18 15:21:27.790+0000 INFO  Stopping...
+2025-11-18 15:21:28.503+0000 INFO  Lost connection to server3/172.21.0.2:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 15:21:47.015+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2025-11-18 15:21:47.029+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2025-11-18 15:21:47.282+0000 INFO  Command expansion is explicitly enabled for configuration
+2025-11-18 15:21:47.282+0000 INFO  Executing external script to retrieve value of setting server.cluster.raft.advertised_address
+2025-11-18 15:21:47.282+0000 INFO  Executing external script to retrieve value of setting server.routing.advertised_address
+2025-11-18 15:21:47.282+0000 INFO  Executing external script to retrieve value of setting server.cluster.advertised_address
+2025-11-18 15:21:47.291+0000 INFO  Starting...
+2025-11-18 15:21:50.086+0000 INFO  ======== Neo4j 2025.10.1 ========
+2025-11-18 15:21:50.240+0000 INFO  This instance is ServerId{56198f5f} (56198f5f-92fc-4df0-b176-c9b776edaa76)
+2025-11-18 15:21:50.451+0000 INFO  Resolved endpoints with DNS{endpoints:'[neo4j-network:6000]'} to '[172.21.0.2:6000, 172.21.0.3:6000, 172.21.0.4:6000, 172.21.0.5:6000]'
+2025-11-18 15:21:52.797+0000 INFO  Sending metrics to CSV file at /var/lib/neo4j/metrics
+2025-11-18 15:21:52.865+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-11-18 15:21:52.899+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-11-18 15:21:52.911+0000 INFO  Bolt (Routing) enabled on 0.0.0.0:7688.
+2025-11-18 15:21:52.939+0000 INFO  Connected to server2/172.21.0.2:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 15:21:52.956+0000 INFO  Connected to server3/172.21.0.5:7000 [Category[name=RAFT] version:5.0]
+2025-11-18 15:21:54.787+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2025-11-18 15:21:54.790+0000 INFO  Remote interface available at http://localhost:7474/
+2025-11-18 15:21:54.793+0000 INFO  id: FD345BFF0D84B39620FC9DF248A34F5EABBC0F2D6B5CFF5963AB7B1CDE447579
+2025-11-18 15:21:54.794+0000 INFO  name: system
+2025-11-18 15:21:54.794+0000 INFO  creationDate: 2025-11-18T15:20:29.457Z
+2025-11-18 15:21:54.795+0000 INFO  Started.

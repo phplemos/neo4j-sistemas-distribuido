@@ -1,0 +1,182 @@
+2025-11-18 15:22:58.322+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:22:58.322+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:22:58.322+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:22:58.323+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:23:23.182+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:24:17.351+0000 INFO  [neo4j]: CREATE DATABASE foo TOPOLOGY 3 PRIMARIES
+2025-11-18 15:26:34.519+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.549+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.606+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.754+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.810+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.903+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.956+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.956+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.956+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.956+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.956+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.956+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.963+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.963+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.963+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.964+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.964+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.964+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.970+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.975+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.976+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.979+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.980+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:34.991+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.012+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.017+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.029+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.118+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.129+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.171+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.181+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.209+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.243+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.326+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.608+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.640+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.640+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.640+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.645+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.652+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.656+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.657+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.663+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.674+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.675+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.676+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.689+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.734+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:35.785+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:36.006+0000 INFO  [neo4j]: logged in
+2025-11-18 15:26:50.941+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:26:50.941+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:26:50.956+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:26:50.956+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:05.020+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:05.042+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:05.051+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:05.077+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:07.169+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:07.172+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:07.183+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:07.198+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:17.155+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:17.170+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:17.188+0000 INFO  [neo4j]: CREATE DATABASE redesocial TOPOLOGY 3 PRIMARIES
+2025-11-18 15:27:25.416+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:25.425+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:25.554+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:35.677+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:35.975+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:35.995+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:36.003+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:36.023+0000 INFO  [neo4j]: logged in
+2025-11-18 15:27:53.778+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:53.778+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:27:53.779+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:28:06.204+0000 INFO  [neo4j]: logged in
+2025-11-18 15:28:06.223+0000 INFO  [neo4j]: logged in
+2025-11-18 15:28:06.232+0000 INFO  [neo4j]: logged in
+2025-11-18 15:28:06.254+0000 INFO  [neo4j]: logged in
+2025-11-18 15:28:07.128+0000 INFO  [neo4j]: logged in within cluster
+2025-11-18 15:28:36.716+0000 INFO  [neo4j]: logged in
+2025-11-18 15:28:36.738+0000 INFO  [neo4j]: logged in
+2025-11-18 15:28:36.750+0000 INFO  [neo4j]: logged in
+2025-11-18 15:28:36.772+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:07.712+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:07.731+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:07.739+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:07.758+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:14.001+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:14.012+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:14.076+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:37.851+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:37.868+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:37.875+0000 INFO  [neo4j]: logged in
+2025-11-18 15:29:37.894+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:08.346+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:08.362+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:08.368+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:08.392+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:38.892+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:38.907+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:38.914+0000 INFO  [neo4j]: logged in
+2025-11-18 15:30:38.928+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:09.334+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:09.349+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:09.355+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:09.372+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:39.428+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:39.444+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:39.450+0000 INFO  [neo4j]: logged in
+2025-11-18 15:31:39.466+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:09.490+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:09.507+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:09.514+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:09.529+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:39.553+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:39.569+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:39.576+0000 INFO  [neo4j]: logged in
+2025-11-18 15:32:39.592+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:09.616+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:09.632+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:09.639+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:09.655+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:39.679+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:39.695+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:39.701+0000 INFO  [neo4j]: logged in
+2025-11-18 15:33:39.716+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:09.737+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:09.752+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:09.758+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:09.775+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:39.801+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:39.818+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:39.824+0000 INFO  [neo4j]: logged in
+2025-11-18 15:34:39.850+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:09.939+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:09.956+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:09.963+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:09.977+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:40.022+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:40.039+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:40.046+0000 INFO  [neo4j]: logged in
+2025-11-18 15:35:40.063+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:10.094+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:10.110+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:10.116+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:10.131+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:40.154+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:40.170+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:40.176+0000 INFO  [neo4j]: logged in
+2025-11-18 15:36:40.190+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:10.246+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:10.261+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:10.267+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:10.283+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:40.343+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:40.364+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:40.374+0000 INFO  [neo4j]: logged in
+2025-11-18 15:37:40.391+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:10.414+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:10.429+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:10.436+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:10.450+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:40.769+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:40.784+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:40.790+0000 INFO  [neo4j]: logged in
+2025-11-18 15:38:40.805+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:11.210+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:11.224+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:11.231+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:11.245+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:41.612+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:41.627+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:41.634+0000 INFO  [neo4j]: logged in
+2025-11-18 15:39:41.649+0000 INFO  [neo4j]: logged in
